@@ -1,5 +1,12 @@
 # 变更日志
 
+## [0.0.2](https://github.com/ClarityJS/git-neko-kit/compare/v0.0.1...v0.0.2) (2025-03-29)
+
+
+### ⚡️ 性能优化
+
+* 初始化项目 ([5f77e9a](https://github.com/ClarityJS/git-neko-kit/commit/5f77e9a65c0b723ec6adfa177108ed7f9fb6c582))
+
 ## [1.1.2](https://github.com/ClarityJS/git-neko-kit/compare/v1.1.1...v1.1.2) (2025-03-27)
 
 ### ♻️ 重构
